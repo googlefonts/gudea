@@ -1,0 +1,6 @@
+buildVariable: false
+removeOutlineOverlaps: false
+sources:
+  - Gudea-Bold.glyphs
+  - Gudea-Italic.glyphs
+  - Gudea-Regular.glyphs
